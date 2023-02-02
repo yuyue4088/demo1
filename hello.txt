@@ -1,2 +1,0 @@
-hello world! finnal end;
-你好，最终版本！
